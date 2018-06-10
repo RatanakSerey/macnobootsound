@@ -16,3 +16,5 @@ This script will just copy two files in the `/Library/LogHook` folder and regist
 To uninstall the script, run the script `install.sh` with the `-u` flag with administrative privileges:
 
     sudo sh install.sh -u
+
+**By matteoacrossi**
