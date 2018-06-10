@@ -17,4 +17,4 @@ To uninstall the script, run the script `install.sh` with the `-u` flag with adm
 
     sudo sh install.sh -u
 
-**By matteoacrossi**
+**Credit to matteoacrossi**
